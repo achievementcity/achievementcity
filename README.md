@@ -6,4 +6,6 @@
 <br>
 [ata](https://fyrestoned.atabook.org)⠀⠀⠀[rentry](https://rentry.org/fyrestoned)<br>
 <br>
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=TONISUCKZ&count=1&header_style=compact_stats_only&footer_style=none&border_radius=0&bg_color=0000)
+<br>
 ![](https://komarev.com/ghpvc/?username=fyrestoned&color=31407d&style=flat&label=surviving_students...)
