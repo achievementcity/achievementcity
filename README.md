@@ -1,11 +1,11 @@
 <div align="center">
   
-<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=501&repeat=false&backgroundOpacity=0&border=false&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22i%27m+psychic%21%22%2C%22font%22%3A%22Love+Ya+Like+A+Sister%22%2C%22color%22%3A%22%2342559e%22%2C%22fontSize%22%3A15%2C%22typingSpeed%22%3A0.16666666666666666%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22kidding%21+i+just+have+really+good+intuition%21%22%2C%22font%22%3A%22Love+Ya+Like+A+Sister%22%2C%22color%22%3A%22%2331407d%22%2C%22fontSize%22%3A15%2C%22typingSpeed%22%3A0.16666666666666666%7D%5D" alt="Typing SVG" /></a><br>
-<img src="https://i.ibb.co/k2rXV8sT/tumblr-215aec452aaf121950fd086b426e824e-2c5a6e86-1280.png" alt="" width="420"/><br>
+<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?pause=1&repeat=false&backgroundColor=%23000000&backgroundOpacity=0&border=false&cursorStyle=underline&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22alright+i%27ve+created+the%22%2C%22color%22%3A%22%2300d64b%22%2C%22fontSize%22%3A20%2C%22typingSpeed%22%3A0.14285714285714285%7D%2C%7B%22text%22%3A%22tower+of+pimps.%22%2C%22color%22%3A%22%2300d64b%22%2C%22fontSize%22%3A20%2C%22typingSpeed%22%3A0.14285714285714285%7D%2C%7B%22text%22%3A%22everyone+worship+me.%22%2C%22color%22%3A%22%2300d64b%22%2C%22fontSize%22%3A20%2C%22typingSpeed%22%3A0.14285714285714285%7D%5D" alt="Typing SVG" /></a><br>
+<img src="https://static.wikia.nocookie.net/roosterteeth/images/d/dd/TOP.png/revision/latest?cb=20140429232133" alt="" width=auto height="250"/><br>
 <sub>6teen, transgender, mexican-american<br>
 <br>
 [ata](https://fyrestoned.atabook.org)⠀⠀⠀[rentry](https://rentry.org/fyrestoned)<br>
 <br>
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=TONISUCKZ&count=1&header_style=compact_stats_only&footer_style=none&border_radius=0&bg_color=0000)
 <br>
-![](https://komarev.com/ghpvc/?username=fyrestoned&color=31407d&style=flat&label=surviving_students...)
+![](https://komarev.com/ghpvc/?username=fyrestoned&color=00d64b&style=flat&label=bois)
