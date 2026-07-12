@@ -4,7 +4,7 @@
 <img src="https://static.wikia.nocookie.net/roosterteeth/images/d/dd/TOP.png/revision/latest?cb=20140429232133" alt="" width=auto height="250"/><br>
 <sub>6teen, transgender, mexican-american<br>
 <br>
-[ata](https://fyrestoned.atabook.org)⠀⠀⠀[rentry](https://rentry.org/fyrestoned)<br>
+[ata](https://achievementcity.atabook.org)⠀⠀⠀[rentry](https://rentry.org/achievementcity)<br>
 <br>
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=TONISUCKZ&count=1&header_style=compact_stats_only&footer_style=none&border_radius=0&bg_color=0000)
 <br>
