@@ -1,15 +1,13 @@
-<img src="https://files.catbox.moe/wnaktp.png" width="900">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-<img src="https://files.catbox.moe/4nnz7o.png" height="300" align="left">
-ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ  
-<br>
+<img src="https://files.catbox.moe/c8kmi4.gif" height="300" align="left">
+
+<div style="text-align: right;">
+
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=TONISUCKZ&count=1&header_style=compact_stats_only&footer_style=none&border_radius=0&bg_color=0000)
-<br>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤ[ata](https://achievementcity.atabook.org)ㅤㅤㅤㅤㅤㅤ[straw](https://magnezone.straw.page) <br>
+ ㅤㅤㅤㅤㅤㅤㅤㅤ[*ata*](https://achievementcity.atabook.org)ㅤㅤㅤㅤㅤㅤ[*strawpage*](https://magnezone.straw.page) <br>
 <br>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ    ![](https://komarev.com/ghpvc/?username=fyrestoned&color=DE3163&style=flat&label=bois)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ![](https://komarev.com/ghpvc/?username=fyrestoned&color=000000&style=flat&label=RECRUITS)</p>
 
+ㅤㅤㅤㅤ![](https://files.catbox.moe/0s368k.webp)ㅤㅤㅤㅤㅤㅤ![](https://files.catbox.moe/l0vm9s.webp)
 
-<br>
-<br>
-<img src="https://files.catbox.moe/wnaktp.png" width="900">ㅤㅤㅤㅤ
+</div>
